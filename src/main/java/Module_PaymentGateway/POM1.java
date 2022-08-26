@@ -8,6 +8,9 @@ public class POM1 {
 		System.out.println("Vlidation of Paytm Gateway Module");
 		System.out.println("Vlidation of Paytm Fund Module");
 		System.out.println("Vlidation of Paytm Transport Module");
+		System.out.println("Vlidation of Paytm Gateway Module");
+		System.out.println("Vlidation of Paytm Fund Module");
+		System.out.println("Vlidation of Paytm Transport Module");
 		}
 
 }
